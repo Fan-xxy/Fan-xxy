@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&lines=xy;%E4%BA%8C%E8%BF%9B%E5%88%B6+%2F+%E9%80%86%E5%90%91+%2F+%E5%9B%BA%E4%BB%B6;building+an+agent)](https://github.com/Fan-xxy)
 <!--
 **Fan-xxy/Fan-xxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
