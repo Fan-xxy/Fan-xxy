@@ -6,27 +6,25 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Binary%20Exploitation-Heap%20%C2%B7%20Stack-0f172a?style=for-the-badge&logo=linux&logoColor=67e8f9" alt="Binary Exploitation" />
-  <img src="https://img.shields.io/badge/Vulnerability%20Research-Firmware%20%2F%20Malware-0f172a?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="Vulnerability Research" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Research-Web%20%2F%20Code-0f172a?style=for-the-badge&logo=github&logoColor=6ee7b7" alt="Vulnerability Research" />
   <img src="https://img.shields.io/badge/Security%20Tooling-Agents-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="Security Tooling" />
 </p>
 
 ## About
 
-Apprentice in malware development and reverse analysis. Working across binary
-security, algorithms, and agents — building tools, breaking binaries, and
-reading the source.
+I love life, and the small things it's made of — music, long
+walks, travel. Introspective by nature: I read, I think, and I keep trying to
+become a little better.
 
 ## Snapshot
 
-- `Primary Domains`: Algorithms · Binary exploitation · Vulnerability Research
+- `Primary Domains`: Writing · Algorithms · Binary exploitation · Vulnerability Research
 - `Preferred Stacks`: Go · TypeScript · Rust
-- `Environment`: Linux · macOS · Docker · IDA Pro
+- `Environment`: Linux · macOS · IDA Pro
 
 ## Blog
 
 - [live.polife.top](https://live.polife.top) — life and thoughts
-
-## Achievements
 
 ### Vulnerabilities
 
