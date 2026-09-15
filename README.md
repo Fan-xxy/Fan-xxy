@@ -13,12 +13,12 @@
 ## About
 
 I love life, and the small things it's made of — music, long
-walks, travel. Introspective by nature: I read, I think, and I keep trying to
+walks, travel, Podcasts. Introspective by nature: I read, I think, and I keep trying to
 become a little better.
 
 ## Snapshot
 
-- `Primary Domains`: Writing · Algorithms · Binary exploitation · Vulnerability Research
+- `Primary Domains`: Reading · Writing · Algorithms · Binary exploitation · Vulnerability Research
 - `Preferred Stacks`: Go · TypeScript · Rust
 - `Environment`: Linux · macOS · IDA Pro
 
