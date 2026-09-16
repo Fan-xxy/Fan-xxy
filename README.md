@@ -1,7 +1,7 @@
 <h1 align="center">xy</h1>
 
 <p align="center">
-  <strong>Security Researcher · Algorithm Apprentice · Agent Apprentice · Lover of Life</strong>
+  <strong>Lover of Life · Security Researcher · Algorithm Apprentice · Agent Apprentice</strong>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ become a little better.
 
 ## Blog
 
-- [live.polife.top](https://live.polife.top) — life and thoughts
+- [live.polife.top](https://live.polife.top) — life and thoughts.
 
 ### Vulnerabilities
 
