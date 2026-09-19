@@ -24,7 +24,7 @@ become a little better.
 
 ## Blog
 
-- [live.polife.top](https://live.polife.top) — life and thoughts.
+- [live.polife.top](https://live.polife.top/en) — life and thoughts.
 
 ### Vulnerabilities
 
