@@ -18,9 +18,9 @@ become a little better.
 
 ## Snapshot
 
-- `Primary Domains`: Reading · Writing · Algorithms · Binary exploitation · Vulnerability Research
+- `Primary Domains`: Reading · Writing · Algorithms · Coding · Vulnerability Research
 - `Preferred Stacks`: Go · TypeScript · Rust
-- `Environment`: Linux · macOS · IDA Pro
+- `Environment`: macOS · Linux
 
 ## Blog
 
