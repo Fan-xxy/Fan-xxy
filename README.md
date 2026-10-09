@@ -17,7 +17,7 @@ walks, travel, Podcasts. Introspective by nature: I read, I think, and I keep tr
 become a little better.
 
 ## Snapshot
-
+- `Age`: 18
 - `Primary Domains`: Reading · Writing · Algorithms · Coding · Vulnerability Research
 - `Preferred Stacks`: Go · TypeScript · Rust
 - `Environment`: macOS · Linux
